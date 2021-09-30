@@ -1,0 +1,2 @@
+"epsilon.N","epsilon.S","Gamma_re","Gamma_ce","Eta_re.N","Eta_ce.N","Eta_re.S","Eta_ce.S","val.param.N","val.param.S","lrng.re.N","lrng.ce.N","lrng.re.S","lrng.ce.S","alfa.N","alfa.S","MSPE.GDP.N","MSPE.Y_ce.N","MSPE.Y_re.N","MSPE.GDP.S","MSPE.Y_ce.S","MSPE.Y_re.S","MSPE.all","seq"
+1.5571,2.0242,0.0085,0.0026,0.3964,0.9495,0.0651,0.0206,1.1596,1.0176,0,0,0,0,0.3576,0.3914,0.240655790168857,0.0367264281879007,0.0232662702701285,0.139347554010669,0.150286644714913,0.00973430378728253,0.100002831856625,29
